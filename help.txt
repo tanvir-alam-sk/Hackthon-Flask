@@ -1,0 +1,15 @@
+pip install crewai==0.28.8 crewai_tools==0.1.6 langchain_community==0.0.29
+
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+source .venv/Scripts/activate # for windows
+
+
+pip install Flask
+
+pip install --upgrade pip
+pip install -r requirements.txt
+
+
